@@ -1,0 +1,6 @@
+C:\Users\Itachi\OneDrive\Documents\Visual Studio 2019\Projects\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\Itachi\OneDrive\Documents\Visual Studio 2019\Projects\IntroToUnitTestingSourceCode\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\Itachi\OneDrive\Documents\Visual Studio 2019\Projects\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\Itachi\OneDrive\Documents\Visual Studio 2019\Projects\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Itachi\OneDrive\Documents\Visual Studio 2019\Projects\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\Itachi\OneDrive\Documents\Visual Studio 2019\Projects\IntroToUnitTestingSourceCode\DemoLibrary\obj\Debug\DemoLibrary.pdb
